@@ -66,6 +66,13 @@ A hybrid AI-based expert system for medical diagnosis that integrates multiple a
 
 ---
 
+## ⭐ Future Improvements
+- Web-based user interface
+- Deep learning models
+- API-based healthcare integration
+
+---
+
 ## ⚠️ Disclaimer
 This system is for educational purposes only and should not be used as a substitute for professional medical advice.
 
