@@ -53,6 +53,19 @@ A hybrid AI-based expert system for medical diagnosis that integrates multiple a
 - Evaluation metrics
 - Confusion matrix & performance graphs
 ---
+## 📸 Results Preview
+
+### 🔹 Performance
+![Performance](performance.png)
+
+### 🔹 Confusion Matrix
+![Confusion](confusion_matrix.png)
+
+### 🔹 Model Comparison
+![Comparison](model_comparison.png)
+
+---
+
 ## ⚠️ Disclaimer
 This system is for educational purposes only and should not be used as a substitute for professional medical advice.
 
