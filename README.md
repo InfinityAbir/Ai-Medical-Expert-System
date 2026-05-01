@@ -73,6 +73,18 @@ A hybrid AI-based expert system for medical diagnosis that integrates multiple a
 
 ---
 
+## 📄 Project Report
+
+This project includes a detailed academic report covering methodology, system design, dataset, and evaluation.
+
+📥 **Download PDF Report:**  
+👉 [AI Medical Expert System Report](report.pdf)
+
+📄 **View LaTeX Source:**  
+👉 [LaTeX Code](report.tex)
+
+---
+
 ## ⚠️ Disclaimer
 This system is for educational purposes only and should not be used as a substitute for professional medical advice.
 
