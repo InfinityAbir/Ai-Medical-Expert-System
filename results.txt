@@ -1,0 +1,8 @@
+Top Diagnoses:
+Flu: 0.8364
+Dengue: 0.8002
+Chickenpox: 0.5007
+
+ML Prediction: Flu
+
+Accuracy: 0.84
